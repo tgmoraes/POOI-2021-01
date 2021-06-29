@@ -20,3 +20,10 @@ Encapsulamento:
 * modificadores de acesso: public e private
 * construtores
 * getters e setters
+
+## aula 4
+Refinando classes: 
+* elementos mutáveis e imutáveis
+* elemntos estáticos
+* classe Object - toString() e equals()
+* igualdade e comparação de objetos
