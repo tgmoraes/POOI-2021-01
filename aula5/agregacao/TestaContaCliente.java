@@ -1,4 +1,4 @@
-package aula4.agregacao;
+package aula5.agregacao;
 
 public class TestaContaCliente {
 	public static void main(String[] args) {

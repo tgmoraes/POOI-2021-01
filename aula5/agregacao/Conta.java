@@ -1,4 +1,4 @@
-package aula4.agregacao;
+package aula5.agregacao;
 
 public class Conta {
 	private int limite;
