@@ -27,3 +27,15 @@ Refinando classes:
 * elemntos estáticos
 * classe Object - toString() e equals()
 * igualdade e comparação de objetos
+
+## aula 5
+Associando classes: 
+* tipos de associação
+* composição e agregação
+* UML - diagrama de classes
+
+## aula 6
+Herança:
+* herança entre classes
+* modificador de acesso protectec
+* reescrita de método
