@@ -39,3 +39,9 @@ Herança:
 * herança entre classes
 * modificador de acesso protectec
 * reescrita de método
+
+## aula 7
+Classes abstratas e polimorfismo:
+* classes abstratas X classes concretas
+* métodos abstratos
+* ganhos do polimorfismo
