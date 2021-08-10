@@ -45,3 +45,9 @@ Classes abstratas e polimorfismo:
 * classes abstratas X classes concretas
 * métodos abstratos
 * ganhos do polimorfismo
+
+## aula 8
+Interfaces:
+* criação de interfaces
+* implementação de interfaces
+* ganhos do polimorfismo
