@@ -1,4 +1,4 @@
-# Programação Orientada a Objetos I - APNPs ciclo 2 - 
+# Programação Orientada a Objetos I  
 Repositório dos códigos utilizados em **Programação Orientada a Objetos I do curso superior em tecnologia ADS (Análise e Desenvolvimento de Sistemas) do IFRS - Campus Osorio**.
 # Conteúdos:
 ## aula 1
