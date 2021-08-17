@@ -51,3 +51,9 @@ Interfaces:
 * criação de interfaces
 * implementação de interfaces
 * ganhos do polimorfismo
+
+## aula 9
+Exceptions:
+* bloco try/catch e lançando uma exception
+* exceptions verificadas e não verificadas
+* criando as nossas próprias exceptions
